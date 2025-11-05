@@ -68,6 +68,8 @@
   <img src="https://github.com/user-attachments/assets/9ac3e11a-2e35-4825-828f-fa98a7f04a1b">
 
 ## 🪄 서비스 화면
+### 👉 [CRAFTY 시연 영상 보러가기](https://youtu.be/gCmXfVn4lIM?si=PExebHX0fPQzLmx8)
+
 <h3>1. 메인 화면</h3>
 <img width="1918" height="959" alt="image" src="https://github.com/user-attachments/assets/a383a3b2-4c20-4915-9b01-049bf7a5b293" />
 
